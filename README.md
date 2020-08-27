@@ -10,7 +10,7 @@
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido utilizando as senguintes tecnologias:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 -  [TypeScript](https://www.typescriptlang.org/)
 -  [React-Native](https://reactnative.dev/)
